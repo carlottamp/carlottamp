@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with SCENIC analysis and integrating that into my single cell analysis. 
 - 📫 How to reach me: carlotta.mantelpestana@dkfz.de
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:  I’m a big fan of science communication and love exploring new scientific visualization tools! 
 -->

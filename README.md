@@ -1,9 +1,9 @@
-# 👩‍🔬 Hi, I am Carlotta, Molecular Mayhem & Code Chaos Wizard
+# Hi, I am Carlotta, Molecular Mayhem & Code Chaos Wizard
 
 Welcome to my GitHub lab bench, where pipettes meet pipelines, and bugs appear in both PCR and Python.
 
 ## 🧠 Who am I?
-I’m Carlotta, a Molecular Biologist at the **German Cancer Research Center (DKFZ)** currently finishing my **Master’s thesis**. My world lies at the crossroads of:
+I’m Carlotta, a Molecular Biologist at the **German Cancer Research Center (DKFZ)** currently finishing her **Master’s thesis**. My world lies at the crossroads of:
 - 🧬 Wet-lab: from single-cell to FACs analysis.
 - 💻 Bioinformatics experiments (some successful, others... instructive).
 
@@ -14,10 +14,10 @@ I’m Carlotta, a Molecular Biologist at the **German Cancer Research Center (DK
 
 ## 🌱 Skills I'm growing
 - 🔬 Data visualization that won't make reviewers cry
-- 💥 Reproducibility 
-- 🐛 Debugging code, pipelines, ...
+- 👩‍🔬 TCR Sequencing and Analysis 
+- 🐛 Reproducibility, debugging code, pipelines, ...
+- 💥 Presenting in public without wanting to combust 
 
 ## ☕ Fun facts
-- I believe most bugs can be solved with coffee, cursing, or both.
-- I once fixed a pipeline error by turning it off and on again. Scientific method? ✅
+- I believe most bugs can be solved with coffee, cursing, or both. Scientific method? ✅
 - My RStudio has more tabs than a bioRxiv preprint has authors.

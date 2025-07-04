@@ -1,4 +1,4 @@
-# Hi, I am Carlotta, Molecular Mayhem & Code Chaos Wizard
+# Hi, I am Carlotta, Code Chaos Wizard
 
 Welcome to my GitHub lab bench, where pipettes meet pipelines, and bugs appear in both PCR and Python.
 

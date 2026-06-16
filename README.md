@@ -1,7 +1,5 @@
 ##  Who am I?
-I’m Carlotta, a Molecular Biologist at the **German Cancer Research Center (DKFZ)**. My world lies at the crossroads of:
--  Wet-lab: from single-cell to FACs analysis.
--  Bioinformatics experiments (some successful, others... instructive).
+I’m Carlotta, a Molecular Biologist at the **German Cancer Research Center (DKFZ)**. 
 
 ##  Tech I’m working with:
 - **Languages**: R, Bash, Python (reluctantly).
@@ -14,4 +12,3 @@ I’m Carlotta, a Molecular Biologist at the **German Cancer Research Center (DK
 
 ##  Fun facts
 - I believe most bugs can be solved with coffee, cursing, or both. 
-- My RStudio has more tabs than a bioRxiv preprint has authors.
